@@ -1,4 +1,4 @@
-code
-====
+Source code engineering
+=======================
 
-Source Code Engineering
+Collection of projects from [32bitmicro](http://32bitmicro.com/) 
